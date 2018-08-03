@@ -1,4 +1,4 @@
-.topnav {
+/* .topnav {
     background-color: #333;
     overflow: hidden;
 }
@@ -23,21 +23,25 @@
 .topnav a.active {
     background-color: #4CAF50;
     color: white;
-}s
-body, html {
-   height: 100%;
-}
-.container {
-    position: relative;
-    max-width: 800px;
-    margin: 0 auto;
+} */
+/* Container holding the image and the text */
+/* .img {
+    float: right;
+   width: 180px;
+   height:100px;
+} */
+img {
+  float: right;
+  width: 80px;
+  height:40px;
 }
 
-.container .content {
-    position: absolute;
-    bottom: 0; /
-    background: rgba(0, 0, 0, 0.5);
-    color: #f1f1f1;
-    width: 100%;
-    padding: 20px;
-}
+/* .text-block {
+   position: absolute;
+   bottom: 20px;
+   right: 20px;
+   background-color: black;
+   color: white;
+   padding-left: 20px;
+   padding-right: 20px;
+} */
