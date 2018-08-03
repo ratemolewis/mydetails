@@ -54,8 +54,36 @@
 .tuna{
   color: red;
   font-size: 12px;
+  padding: 2px;
+  margin: 2px;
 }
 p.tuna {
   font-size: 12px;
   color:teal;
+}
+.text-box{
+  padding: 6px;
+ margin: 20px;
+}
+
+.colu h3 {
+  font-size: 14px;
+  font-style: italic;
+  color: black;
+}
+@media screen and (min-width: 480px) and (max-width: 767px) {
+    body {
+        background-color: black;
+        color: white;
+    }
+}
+@media screen and (min-width: 768px) {
+  body {
+    background-color: yellowgreen;
+  }
+  .column {
+    width: 220px;
+    float: left;
+    padding: 15px;
+  }
 }
