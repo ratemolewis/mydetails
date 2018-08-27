@@ -12,9 +12,22 @@
 ## Known Bugs
 {It does not contain any bugs as it is function well }
 ## Technologies Used
-{HTML and CSS languages were used}
+#HTML<br>
+#CSS
 ## Support and contact details
 {For any feedback and corrections you can get me on Facebook and E-mail as ratemolewis and ratemolewis@gmail.com}
+## Authors
+
+* **Ratemo Lewis** - *Initial work* - [alfartech](https://github.com/ratemolewis)
+
+## License@
+@ MIT
+==>Alfar Technologies Limited
+## Acknowledgments
+
+* God
+* Mr.Ngugi
+* moringa TM's
 ### License
 *{
                     GNU GENERAL PUBLIC LICENSE
