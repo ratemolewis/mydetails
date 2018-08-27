@@ -1,3 +1,11 @@
+*
+{padding: 0px;
+margin: 0px
+}
+body{
+  padding: 2px;
+  margin: 3px;
+}
 .topnav {
     background-color: #333;
     overflow: hidden;
@@ -37,7 +45,7 @@
     float: right;
 }
 
-.colu{
+/* .colu{
     width: 350px;
     float: right;
   }
@@ -70,7 +78,28 @@ p.tuna {
   font-size: 14px;
   font-style: italic;
   color: black;
+} */
+.flex-container {
+  display: flex;
+  background-color: DodgerBlue;
+  align-items: center;
+  justify-content: center;
 }
+.flex-container > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+
+}
+#footer >p{
+  background-color: green;
+  color: #fff;
+  padding: 40px;
+  text-align: center;
+}
+
+
 @media screen and (min-width: 480px) and (max-width: 767px) {
     body {
         background-color: black;
